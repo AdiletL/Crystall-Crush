@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - weapon
+  - Earth
+  - Cristal
+  - WeaponEnemy
+  - Enemy
+  - Foreman
+  - Upgrade
+  - Boost
+  - Lvl1
+  - Lvl2
+  - Lvl3
+  - Start
+  - Lvl4
+  - Lvl5
+  - Location1
+  - Lvl6
+  - Lvl7
+  - ActiveStart
+  - Lvl8
+  - Lvl9
+  - Lvl10
+  - Lvl11
+  - Lvl12
+  - Lvl13
+  - Lvl14
+  - Lvl15
+  - EndBot
+  - Apple
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - earth
+  - crystall
+  - Player
+  - Weapon
+  - Gold
+  - SmallCrystall
+  - weaponPlayer
+  - RightStone
+  - Enemy
+  - LeftStone
+  - EarthCrystall
+  - Boost
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

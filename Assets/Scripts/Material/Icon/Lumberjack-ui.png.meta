@@ -1,0 +1,409 @@
+fileFormatVersion: 2
+guid: e00e221d26f2517428fcc467813f6607
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2479541689326667624
+    second: Lumberjack-ui_0
+  - first:
+      213: -8252125401318628448
+    second: Lumberjack-ui_1
+  - first:
+      213: 8407332286466230746
+    second: Lumberjack-ui_2
+  - first:
+      213: -5661968601444148743
+    second: Lumberjack-ui_3
+  - first:
+      213: -7363165828464786548
+    second: Lumberjack-ui_4
+  - first:
+      213: -2725672424404258004
+    second: Lumberjack-ui_5
+  - first:
+      213: -865028196594826588
+    second: Lumberjack-ui_6
+  - first:
+      213: 2390696755412167944
+    second: Lumberjack-ui_7
+  - first:
+      213: 5661781794514512302
+    second: Lumberjack-ui_8
+  - first:
+      213: 7565280886601527802
+    second: Lumberjack-ui_9
+  - first:
+      213: -9088932309419738528
+    second: Lumberjack-ui_10
+  - first:
+      213: -7956072272587942187
+    second: Lumberjack-ui_11
+  - first:
+      213: -7610047056417148540
+    second: Lumberjack-ui_0
+  - first:
+      213: 7488451929408307260
+    second: Lumberjack-ui_2
+  - first:
+      213: 384773116825818447
+    second: Lumberjack-ui_3
+  - first:
+      213: 5592968158834880349
+    second: Lumberjack-ui_4
+  - first:
+      213: -8971949178899995929
+    second: Lumberjack-ui_5
+  - first:
+      213: -2560378422335461268
+    second: Lumberjack-ui_6
+  - first:
+      213: 1215832834947291778
+    second: Lumberjack-ui_7
+  - first:
+      213: -9077159745066213662
+    second: Lumberjack-ui_8
+  - first:
+      213: -1452497792676688175
+    second: Lumberjack-ui_9
+  - first:
+      213: -8043488862066895544
+    second: Lumberjack-ui_10
+  - first:
+      213: -2181665180370971214
+    second: Lumberjack-ui_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lumberjack-ui_2
+      rect:
+        serializedVersion: 2
+        x: 4291
+        y: 3584
+        width: 488
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3088f1ba535ce760800000000000000
+      internalID: 7488451929408307260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumberjack-ui_3
+      rect:
+        serializedVersion: 2
+        x: 4791
+        y: 3584
+        width: 488
+        height: 464
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45d5837c1df65500800000000000000
+      internalID: 384773116825818447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumberjack-ui_4
+      rect:
+        serializedVersion: 2
+        x: 5283
+        y: 3584
+        width: 485
+        height: 461
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f6c6b58e63e9d40800000000000000
+      internalID: 5592968158834880349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumberjack-ui_5
+      rect:
+        serializedVersion: 2
+        x: 5811
+        y: 3584
+        width: 487
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2eec8d1cb3d7380800000000000000
+      internalID: -8971949178899995929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumberjack-ui_6
+      rect:
+        serializedVersion: 2
+        x: 6338
+        y: 3584
+        width: 491
+        height: 461
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68ae1ee365b77cd0800000000000000
+      internalID: -2560378422335461268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumberjack-ui_7
+      rect:
+        serializedVersion: 2
+        x: 4313
+        y: 3010
+        width: 423
+        height: 472
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a1a4985818fd010800000000000000
+      internalID: 1215832834947291778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumberjack-ui_8
+      rect:
+        serializedVersion: 2
+        x: 4889
+        y: 3010
+        width: 404
+        height: 472
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee5ad10e43770280800000000000000
+      internalID: -9077159745066213662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumberjack-ui_9
+      rect:
+        serializedVersion: 2
+        x: 5324
+        y: 3010
+        width: 401
+        height: 472
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de877604f0b7dbe0800000000000000
+      internalID: -1452497792676688175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumberjack-ui_10
+      rect:
+        serializedVersion: 2
+        x: 5815
+        y: 3010
+        width: 421
+        height: 469
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84511b50f79cf5090800000000000000
+      internalID: -8043488862066895544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumberjack-ui_11
+      rect:
+        serializedVersion: 2
+        x: 6343
+        y: 3010
+        width: 424
+        height: 472
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b55621d31b29b1e0800000000000000
+      internalID: -2181665180370971214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 514839fe319cdfe4da5cabcdd67cab3d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
